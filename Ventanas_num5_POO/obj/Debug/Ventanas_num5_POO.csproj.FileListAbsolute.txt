@@ -1,0 +1,10 @@
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\bin\Debug\Ventanas_num5_POO.exe.config
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\bin\Debug\Ventanas_num5_POO.exe
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\bin\Debug\Ventanas_num5_POO.pdb
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.csproj.AssemblyReference.cache
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.Form1.resources
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.Properties.Resources.resources
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.csproj.GenerateResource.cache
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.exe
+C:\Users\Win 10\source\repos\Ventanas_num5_POO\Ventanas_num5_POO\obj\Debug\Ventanas_num5_POO.pdb
